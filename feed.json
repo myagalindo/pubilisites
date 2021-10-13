@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mya&#x27;s Website",
+    "description": "",
+    "home_page_url": "https://myagalindo.github.io/pubilisites",
+    "feed_url": "https://myagalindo.github.io/pubilisites/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mya Galindo"
+    },
+    "items": [
+        {
+            "id": "https://myagalindo.github.io/pubilisites/introduction-to-my-digital-story.html",
+            "url": "https://myagalindo.github.io/pubilisites/introduction-to-my-digital-story.html",
+            "title": "Introduction to my Digital Story",
+            "summary": "Check out this awesome viedo about digtal storytelling Check out this Awesome Video Click on this cool visualization I made about digtal storytelling with Voyant ",
+            "content_html": "<p>Check out this awesome viedo about digtal storytelling</p>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/JIix-yVzheM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p>Check out this Awesome Video</p>\n<p>Click on this cool visualization I made about digtal storytelling with <a href=\"https://voyant-tools.org/\">Voyant</a><iframe loading=\"lazy\" style=\"width: 912px; height: 439px;\" src=\"https://voyant-tools.org/tool/Cirrus/?palette=d3_cat10&amp;whiteList=&amp;visible=105&amp;fontFamily=%22Trebuchet%20MS%22%2C%20Helvetica%2C%20sans-serif&amp;corpus=27c1ea1b3520ee7c61aadbfacb4e3ddc\"></iframe>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Mya Galindo"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-13T10:37:33-07:00",
+            "date_modified": "2021-10-13T10:42:26-07:00"
+        }
+    ]
+}

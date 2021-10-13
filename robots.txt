@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://myagalindo.github.io/pubilisites/sitemap.xml

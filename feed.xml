@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Mya&#x27;s Website</title>
+    <link href="https://myagalindo.github.io/pubilisites/feed.xml" rel="self" />
+    <link href="https://myagalindo.github.io/pubilisites" />
+    <updated>2021-10-13T10:42:26-07:00</updated>
+    <author>
+        <name>Mya Galindo</name>
+    </author>
+    <id>https://myagalindo.github.io/pubilisites</id>
+
+    <entry>
+        <title>Introduction to my Digital Story</title>
+        <author>
+            <name>Mya Galindo</name>
+        </author>
+        <link href="https://myagalindo.github.io/pubilisites/introduction-to-my-digital-story.html"/>
+        <id>https://myagalindo.github.io/pubilisites/introduction-to-my-digital-story.html</id>
+
+        <updated>2021-10-13T10:42:26-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Check out this awesome viedo about digtal storytelling Check out this Awesome Video Click on this cool visualization I made about digtal storytelling with Voyant 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Check out this awesome viedo about digtal storytelling</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/JIix-yVzheM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>Check out this Awesome Video</p>
+<p>Click on this cool visualization I made about digtal storytelling with <a href="https://voyant-tools.org/">Voyant</a><iframe loading="lazy" style="width: 912px; height: 439px;" src="https://voyant-tools.org/tool/Cirrus/?palette=d3_cat10&amp;whiteList=&amp;visible=105&amp;fontFamily=%22Trebuchet%20MS%22%2C%20Helvetica%2C%20sans-serif&amp;corpus=27c1ea1b3520ee7c61aadbfacb4e3ddc"></iframe>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
