@@ -3,32 +3,36 @@
     <title>Mya&#x27;s Website</title>
     <link href="https://myagalindo.github.io/pubilisites/feed.xml" rel="self" />
     <link href="https://myagalindo.github.io/pubilisites" />
-    <updated>2021-10-13T10:42:26-07:00</updated>
+    <updated>2021-10-23T18:48:58-07:00</updated>
     <author>
         <name>Mya Galindo</name>
     </author>
     <id>https://myagalindo.github.io/pubilisites</id>
 
     <entry>
-        <title>Introduction to my Digital Story</title>
+        <title>Backpacking Wonder&#x27;s With Mya</title>
         <author>
             <name>Mya Galindo</name>
         </author>
         <link href="https://myagalindo.github.io/pubilisites/introduction-to-my-digital-story.html"/>
         <id>https://myagalindo.github.io/pubilisites/introduction-to-my-digital-story.html</id>
 
-        <updated>2021-10-13T10:42:26-07:00</updated>
+        <updated>2021-10-23T18:48:58-07:00</updated>
             <summary>
                 <![CDATA[
-                    Check out this awesome viedo about digtal storytelling Check out this Awesome Video Click on this cool visualization I made about digtal storytelling with Voyant 
+                    About Me About Me Hi! my name is Mya! I am an adventure, nature lover, and above all life long learner. I teach individuals the necessities of getting started on their first backpacking trip and how beginners can become backpacking pros! I have a love&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Check out this awesome viedo about digtal storytelling</p>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/JIix-yVzheM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-<p>Check out this Awesome Video</p>
-<p>Click on this cool visualization I made about digtal storytelling with <a href="https://voyant-tools.org/">Voyant</a><iframe loading="lazy" style="width: 912px; height: 439px;" src="https://voyant-tools.org/tool/Cirrus/?palette=d3_cat10&amp;whiteList=&amp;visible=105&amp;fontFamily=%22Trebuchet%20MS%22%2C%20Helvetica%2C%20sans-serif&amp;corpus=27c1ea1b3520ee7c61aadbfacb4e3ddc"></iframe>
+                <p class="align-center">About Me</p>
+<p> </p>
+<p class="align-center">About Me<br>Hi!  my name is Mya! I am an adventure, nature lover, and above all life long learner.   I teach individuals the necessities of getting started on their first backpacking trip and how beginners can become backpacking pros!  I have a love for travel and experiencing the world through backpacking.   Whether you need guidance on your first backpacking trip or looking for inspiration, you have come to the right destination.  <br><br>This blog will specifically focus on all of California's wonders and great places for beginners to get started on their first trip into the wild.  I am always searching for new knowledge, and I am here to share my new knowledge and previous knowledge with you.  Venture on your first backing trip can be scary; you're certain of what will happen.  I am here to be a guide to help answer all the scary unknowns and challenging questions.   Get ready for a wild ready, and let pack our backpacks together and get started! </p>
+<p> </p>
+<p>Check out this awesome viedo about how to get started for your first backpacking trip.</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/O1vtZSKr0pE?ab_channel=REI" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p> </p>
+<p>Click on link to see the best spot for first time <a href="#INTERNAL_LINK#/post/null" title="https://nobackhome.com/backpacking-in-california/">backpackers!</a></p>
 <p> </p>
 <p> </p>
             ]]>
